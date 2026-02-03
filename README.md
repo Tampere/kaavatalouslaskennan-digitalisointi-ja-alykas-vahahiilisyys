@@ -7,3 +7,4 @@ Kaavatalouslaskennan digitalisointi ja älykäs vähähiilisyys -projektin, http
 <img src="Logo_pirkanmaa_rgb.jpeg"></img>
 
 
+© 2026 Copyright: City of Tampere, Finland (Tampereen kaupunki). Licensed under the EUPL.
