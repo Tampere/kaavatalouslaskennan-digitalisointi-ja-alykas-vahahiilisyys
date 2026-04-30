@@ -2,7 +2,7 @@
 
 Kaavatalouslaskennan digitalisointi ja älykäs vähähiilisyys -projektin, https://www.tampere.fi/organisaatio/kaavatalouslaskennan-digitalisointi-ja-alykas-vahahiilisyys, Proof of Concept -työkalu, aineistoja ja materiaaleja.
  
-DECCI-projektin kaavatalouslaskennan digitalisointi -osan valmiit lopputuotteet ovat kaavatalouslaskennan_digitalisointi <a href="https://github.com/Tampere/kaavatalouslaskennan-digitalisointi-ja-alykas-vahahiilisyys/tree/main/kaavatalouslaskennan_digitalisointi">kaavatalouslaskennan_digitalisointi</a>-kansion alla:
+DECCI-projektin kaavatalouslaskennan digitalisointi -osan valmiit lopputuotteet ovat <a href="https://github.com/Tampere/kaavatalouslaskennan-digitalisointi-ja-alykas-vahahiilisyys/tree/main/kaavatalouslaskennan_digitalisointi">kaavatalouslaskennan_digitalisointi</a>-kansion alla:
 <ul>
   <li>https://github.com/Tampere/kaavatalouslaskennan-digitalisointi-ja-alykas-vahahiilisyys/blob/main/kaavatalouslaskennan_digitalisointi/LOPPURAPORTTI_Kaavatalouslaskennan%20edist%C3%A4minen%20ja%20%C3%A4lyk%C3%A4s%20v%C3%A4h%C3%A4hiilisyys_2026.pdf</li>
   <li>https://github.com/Tampere/kaavatalouslaskennan-digitalisointi-ja-alykas-vahahiilisyys/blob/main/kaavatalouslaskennan_digitalisointi/kaavatalouden_laskentapohja_2026.xlsx</li>
